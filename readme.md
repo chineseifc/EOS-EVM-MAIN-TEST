@@ -8,7 +8,7 @@ EOSEVM是EOS网络的二层，它支持以太坊虚拟机，所以叫它EVM，�
 
 ![12](https://user-images.githubusercontent.com/97346630/234009651-c2434bcb-63cb-4c08-a06b-4b030064da73.jpg)
 
-2、使用交易所直接提币，这里以币安交易所为例（如果交易所用此方法不行，请先转至币安交易所，目前已知OK交易所不行，会提示EOSEVM地址错误需要先转到币安，再转到EOSEVM）
+2、使用交易所直接提币，这里以币安交易所为例（如果交易所用此方法不行，请先转至币安交易所，目前已知OK交易所不行，会提示EOSEVM地址错误，需要先转到币安，再转到EOSEVM）
 ![EOS体现教程](https://user-images.githubusercontent.com/97346630/232079721-0995ecde-9804-4490-a8e7-c52f4e493838.jpg)
 
 
@@ -29,5 +29,5 @@ EOSEVM是EOS网络的二层，它支持以太坊虚拟机，所以叫它EVM，�
 
 🌉 Token Bridge: https://bridge.evm.eosnetwork.com 
 
-# 参阅官方文档：
+# 参阅官方文档（官方文档有部分错误，目前未修正）：
 https://docs.eosnetwork.com/docs/latest/eos-evm/getting_started/connect-metamask
