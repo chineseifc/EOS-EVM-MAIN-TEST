@@ -19,7 +19,7 @@ EOSEVM是EOS网络的二层，它支持以太坊虚拟机，所以叫它EVM，�
 
 ![123123](https://user-images.githubusercontent.com/97346630/232201216-6141a67a-3fea-4d9e-852c-d61a67f11423.png)
 
-# 主网网络信息
+# EosEvm网络信息（EosEvmNet information）
 
 📱 RPC: https://api.evm.eosnetwork.com 
 
