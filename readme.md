@@ -12,7 +12,7 @@ EOSEVM是EOS网络的二层，它支持以太坊虚拟机，所以叫它EVM，�
 ![EOS体现教程](https://user-images.githubusercontent.com/97346630/232079721-0995ecde-9804-4490-a8e7-c52f4e493838.jpg)
 
 
-# 如何提现回主网或者交易所
+# 如何提现回主网或者交易所?（How to Withdraw to Exchange?）
 
 进入官方桥：https://bridge.evm.eosnetwork.com/
 
