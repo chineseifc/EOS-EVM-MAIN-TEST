@@ -6,9 +6,7 @@ EOSEVM是EOS网络的二层，它支持以太坊虚拟机，所以叫它EVM，�
 1、使用官方桥
 官方桥地址：https://bridge.evm.eosnetwork.com/
 
-2、使用交易所直接提币
-
-# 如何从币安提现EOS到EOS-EVM 主网（目前已知OK交易所不行，会提示EOSEVM地址错误需要先转到币安，再转到EOSEVM）
+2、使用交易所直接提币，这里以币安交易所为例（如果交易所用此方法不行，请先转至币安交易所，目前已知OK交易所不行，会提示EOSEVM地址错误需要先转到币安，再转到EOSEVM）
 ![EOS体现教程](https://user-images.githubusercontent.com/97346630/232079721-0995ecde-9804-4490-a8e7-c52f4e493838.jpg)
 # 如何提现回主网或者交易所
 
